@@ -1,0 +1,5 @@
+public static final RegistryObject<BlockItem> TEST_STAIRS = ITEMS.register("test_stairs",
+        () -> new BlockItem(Blocks.TEST_STAIRS.get(), new Item.Properties()
+                    .stacksTo(64)
+));
+

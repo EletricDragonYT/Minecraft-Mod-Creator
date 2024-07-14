@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "infinity:block/tex",
+    "side": "infinity:block/tex",
+    "top": "infinity:block/tex"
+  }
+}
