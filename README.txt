@@ -34,5 +34,7 @@ Planned Features:
 -- Planned farther in the future or sooner, depends on when I determine that I need it the mode.
 
 Unplanned Features:
-- GUI: I have no plans to create a GUI variant of the application as I lack the knowledge to do that, especially in a form that works on all platforms.
-- Cross-Platform: If this application does not work on a specific operating software, I have no plans on fixing that as I don't own anything other than Windows.
+- GUI: I have no plans to create a GUI variant of the application as I lack the knowledge to do that, especially in a
+form that works on all platforms.
+- Cross-Platform: If this application does not work on a specific operating software, I have no plans on fixing that
+as I don't own anything other than Windows.
