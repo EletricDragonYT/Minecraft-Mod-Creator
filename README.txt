@@ -1,8 +1,9 @@
 This is a very bare-bones mod creator for Minecraft Java Edition.
 
-The mod creator is being developed to create mod features quicker, taking in the users input and outputing information that can then be copy and pasted into Forge.
-The features that can be created using this application are only those found within vanilla Minecraft, though adding modded features would be quite easy. The application
-is open source, users are free to use this application, though I do ask to be credited in some manor.
+The mod creator is being developed to create mod features quicker, taking in the users input and outputing information that
+can then be copy and pasted into Forge. The features that can be created using this application are only those found within
+vanilla Minecraft, though adding modded features would be quite easy. The application is open source, users are free to use
+this application, though I do ask to be credited in some manor.
 
 Finished Features:
 - BlockSetType: Custom BlockSetTypes can be created, and are used in the creation of custom WoodTypes.
